@@ -10,9 +10,7 @@
 - I'm currently learning C++ and trying to take my skills to the next level!  
 
   
-## Projects
-  
-  
+ <br/>
   
   
   <h3 align="left">Languages and Tools:</h3>
