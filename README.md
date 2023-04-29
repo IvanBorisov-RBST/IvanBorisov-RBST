@@ -2,7 +2,7 @@
   
 
 
-## Targets  
+ <h3 align="left">Targets:</h3>
 
 - I'm currently learning C++ and trying to take my skills to the next level!  
 
