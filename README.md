@@ -10,8 +10,6 @@
 - I'm currently learning C++ and trying to take my skills to the next level!  
 
 
-</td><td valign="top" width="50%">
-
 
 
 </td></tr></table>  
