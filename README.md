@@ -9,52 +9,16 @@
 
 - I'm currently learning C++ and trying to take my skills to the next level!  
 
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Languages and Tools  
-<div align="center">  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-</div>  
-
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=IvanBorisov-RBST&&style=flat-square" align="center" />
-</div>  
-
-
-</td><td valign="top" width="50%">
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanBorisov-RBST&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>
-
-</td></tr></table>  
-
-<br/>  
-
   
-
-<br/>  
-
+## Projects
   
-
-<br/>  
-
   
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+  
+  
+  <h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1920px-ISO_C%2B%2B_Logo.svg.png" alt="cplusplus" width="40" height="40"/> </a> </p>
+  
+  
+  
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=IvanBorisov-RBST&label=Profile%20views&color=0e75b6&style=flat" alt="IvanBorisov-RBST" /> </p>
